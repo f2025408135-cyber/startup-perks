@@ -1,0 +1,58 @@
+Program,Provider,Category,What_you_get,Referral_needed,Priority,Wave,Apply_URL,Status,Deadline_or_Notes
+Microsoft for Startups,Microsoft,Cloud credits,$200 instant + $5k self-serve; $100k-$150k via Investor Network,Optional (code = big money),P0,Day 1,https://startups.microsoft.com,Not applied,Personal MSA login only; 3-day review; credits tied to subscription
+AWS Activate Founders,AWS,Cloud credits,$1000 (up to $5k over time) 1-2yr,No,P0,Day 1,https://aws.amazon.com/startups/credits/,Not applied,Founded <10y; website bot-scraped; 5-10 day review
+Google Cloud Start tier,Google,Cloud credits,$2000 / 12mo + 12mo Workspace,No,P0,Day 1,https://cloud.google.com/startup/apply,Not applied,Founded <24mo; email=website=billing domain
+NVIDIA Inception,NVIDIA,Vendor program,~75% off AI Enterprise + HW pricing + credit coupons,No,P0,Day 1,https://www.nvidia.com/en-us/startups/,Not applied,Deck upload REQUIRED; no gmail; free
+Claude for Startups,Anthropic,AI credits,Membership now; $5k-$100k credits gated on institutional funding,No (partner tier = yes),P1,Day 1,https://claude.com/programs/startups,Not applied,Credits first-party API only; founded <4yr; one shot per company
+Together AI Build tier,Together AI,Inference credits,Up to $15k + 3h engineering (selection-based),No,P1,Day 1,https://www.together.ai/startup-accelerator,Not applied,Raised <=$5M = Build tier
+Cloudflare Tier 3,Cloudflare,Infra credits,$10k / 12mo,No,P0,Day 1,https://www.cloudflare.com/startups/,Not applied,Bootstrapped OK T3; one-time per company
+Intercom Early Stage,Intercom,SaaS,93% off yr1 + $500k Fin startup pack,No,P1,Day 1,https://www.intercom.com/early-stage,Not applied,Raised <=$10M; <15 employees
+Notion for Startups,Notion,SaaS,3 mo free Business+AI (6 mo via partner/Mercury),No,P2,Day 1,https://www.notion.com/startups,Not applied,Domain email required; non-paying customers only
+MongoDB for Startups,MongoDB,SaaS/DB,Inspire tier Atlas credits + Voyage AI tokens,No,P2,Day 1,https://www.mongodb.com/solutions/startups,Not applied,<7yr old; Series A or earlier
+Neon self-funded,Neon/Databricks,DB credits,Up to $1000 / 12mo,No,P2,Day 1,https://neon.com/startups,Not applied,Raised <$1M track
+DigitalOcean Startups,DigitalOcean,Infra credits,12mo credits + GPU packages (invite),No,P2,Day 1,https://www.digitalocean.com/hatch,Not applied,Raised <=$10M; AI-native prioritized
+xAI data-share credits,xAI,Inference credits,~$150-175/mo if opt-in to training data,No,P3,Optional,https://console.x.ai,Not applied,Irreversible team setting; non-sensitive data only
+Gemini API free tier,Google,Inference credits,Free Flash tokens (data used for training),No,P3,Day 1,https://ai.google.dev/gemini-api/docs/pricing,Not used,3.8 Flash intro price doubles Jan 1 2027
+AWS Activate Portfolio,AWS,Cloud credits,Up to $200k (typical $25k pre-seed / $100k seed packages),YES - Org ID required,P0,Week 2-4,https://aws.amazon.com/startups/credits/,Not applied,Need Activate Provider Org ID; bootstrapped OK pre-Series B
+Microsoft Investor Network,Microsoft,Cloud credits,$100k start + up to $150k progressive,YES - 10-char code,P0,Week 2-4,https://startups.microsoft.com,Not applied,Needs ~$3k/mo sustained Azure + 10 workloads for top tier
+GitHub for Startups,GitHub,SaaS credits,$10k / 12mo (Enterprise + Copilot),YES - partner referral,P0,Week 2-4,https://github.com/enterprise/startups,Not applied,24h approval; new to Enterprise
+Datadog for Startups,Datadog,SaaS credits,Up to $100k = 1yr full platform,YES - partner referral,P1,Week 2-4,https://www.datadoghq.com/startups/,Not applied,DO NOT create Datadog account first; confirm activation in 30 days
+Cloudflare Tier 2/1,Cloudflare,Infra credits,$100k / $350k,YES - affiliated partner funding,P2,Post-affiliation,https://www.cloudflare.com/startups/,Not applied,Upgrade path after affiliation
+Vercel for Startups,Vercel,Infra credits,Up to $30k + Enterprise access,YES - partner list,P1,Post-affiliation,https://vercel.com/startups,Not applied,Separate AI Accelerator cohort exists
+HubSpot for Startups,HubSpot,SaaS,90% off yr1 (funded) / 30% (org-affiliated),Partner org OR funding,P2,Week 2-4,https://www.hubspot.com/startups,Not applied,Crunchbase verification for 90% tier
+Launchpad.io,Launchpad,Multiplier,Matches AWS Activate credits 1:1 up to $100k,Needs Activate membership,P1,Post-AWS,https://launchpad.io,Not applied,Use within 12 months of signup
+Stripe Atlas,Stripe,Incorporation,Delaware C-Corp + EIN + 83(b) + $2.5k Stripe credits + $50k partner discounts,No,P1,At pre-seed round,https://stripe.com/atlas,Not applied,$500 + $100/yr agent; 2-day turnaround
+Mercury Perks,Mercury,Banking perks,AWS $5k + GitHub $10k + Notion 6mo + ElevenLabs 1yr + more,No,P2,At pre-seed round,https://mercury.com/perks,Not applied,US entity required
+Brex / Ramp,Brex;Ramp,Banking perks,$350k+ perk portals each,No,P3,US entity only,https://www.brex.com/startups,Not applied,US entity required
+Deel for Startups,Deel,HR,Free US payroll + 5 seats,Needs $500k raised on Crunchbase,P3,Post-round,https://www.deel.com/startups/,Not applied,Bootstrapped does not qualify
+Carta Launch,Carta,Cap table,Free cap table (<25 employees; <=$1M raised),No,P2,After incorporation,https://app.carta.com/launch/create-account,Not applied,
+DeepInfra DeepStart,DeepInfra,Inference credits,1B free tokens (~$5k),No,P3,Post-round,https://deepinfra.com/deepstart,Not applied,Requires $250k-$10M raised + founded <2yr
+Meta Llama Startup Program,Meta,Inference credits,Up to $6k/mo x6 ($36k) reimbursement,No,P3,US entity only,https://www.llama.com/programs/startups/,Not applied,US-incorporated; window status UNVERIFIED
+Y Combinator,YC,Accelerator,$500k ($125k/7% + $375k MFN) + $12M partner credits,No,P0,Calendar,https://apply.ycombinator.com/home,Not applied,W27 deadline Nov 2 2026; SF onsite; visa for Pakistani founder
+Antler ONE Berlin,Antler,Accelerator,EUR 500k ~10% + EUR 4M perks,No,P0,Calendar,https://www.antler.co/apply,Not applied,Residencies March + September; Berlin in-person
+AI Grant,Nat Friedman/Daniel Gross,Accelerator,$250k uncapped MFN + $600k+ credits,No,P0,Calendar,https://www.aigrant.com,Not applied,Batch 4 closed - watch Batch 5; Delaware C-Corp; remote OK
+Seedcamp,Seedcamp,VC,$350k-$1.25M first cheque,No,P1,Rolling,https://seedcamp.com,Not applied,Europe/Israel anchor; remote cofounder OK
+Speedinvest,Speedinvest,VC,EUR 250k-5M pre-seed,No,P1,Rolling,https://www.speedinvest.com,Not applied,AI & Infra team
+HEARTFELT_ (ex-APX),HEARTFELT_,VC,EUR 100-400k first cheque,No,P2,Rolling,https://www.heartfelt.vc,Not applied,Berlin/Axel Springer/Porsche network
+Entrepreneur First,EF,Accelerator,GBP 6k + $125k/8% + $600k credits,No,P2,Calendar,https://apply.joinef.com,Not applied,London->SF; Berlin/Munich closed
+UnternehmerTUM Accelerator,UnternehmerTUM,Accelerator,Equity-free + up to EUR 250k + >$600k perks,No,P1,Calendar,https://accelerator.unternehmertum.de/accelerator-program,Not applied,Batch #21 apps Dec 2026-Jan 2027; Munich full-time
+Techstars London,Techstars,Accelerator,$220k historic (UNVERIFIED 2026),No,P2,Calendar,https://www.techstars.com/accelerators/london,Not applied,Deadline Nov 18 2026
+a16z Speedrun,a16z,Accelerator,Up to $1M + $10M credits,No,P3,Calendar,https://speedrun.a16z.com,Not applied,SR008 early 2027; SF onsite
+Station F,Station F,Accelerator,Desk-fee programs (EUR 259/mo); no equity,No,P3,Rolling,https://stationf.co/programs/in-house,Not applied,Free Track discontinued
+EuroHPC AI Factories,EU JU,Compute,Free supercomputing up to 50k+ GPU-hours,No,P1,Rolling,https://www.eurohpc-ju.europa.eu,Not applied,EU entity; org-based access
+AWS GAIA,AWS,Accelerator,Up to $1M credits; 0% equity,No,P1,Calendar (June),https://aws.amazon.com/startups/programs/generative-ai,Not applied,40 startups globally; seed+ traction; 2026 dates UNVERIFIED
+aws Preseed Deep Tech,aws Austria,Grant,Up to EUR 267k grant (EUR 300k Gender Bonus); no equity,No,P0,Calendar (quarterly),https://www.aws.at/aws-preseed-deep-tech/,Not applied,CRITICAL: apply <=6 months after Firmenbuch; deep-tech bar; ~25% accept
+aws Seedfinancing Deep Tech,aws Austria,Grant,Up to EUR 889k conditionally repayable,No,P0,Post-Preseed,https://www.aws.at/aws-seedfinancing-deep-tech/,Not applied,<=54 months post-registration
+aws Preseed Innovative Solutions,aws Austria,Grant,Up to EUR 89k; non-deep-tech impact angle,No,P2,<=6mo window,https://www.aws.at/aws-preseed-seedfinancing-innovative-solutions/,Not applied,Only if not deep-tech
+FFG Generalprogramm / KI-Flagship,FFG,Grant,EUR 50k-3M R&D ~50%; KI-Flagship EUR 500k,No,P1,Calendar,https://www.ffg.at/Generalprogramm,Not applied,KI-Flagship deadline Sep 15 2026; figures UNVERIFIED (ffg.at blocks bots)
+VBA Innovation Funding,Vienna Business Agency,Grant,Up to EUR 300k/project (45% rate),No,P1,Calendar,https://viennabusinessagency.at/current-funding/innovation-funding/,Not applied,Deadlines Aug 31 + Dec 31 2026; Vienna company
+VBA Startup Grant,Vienna Business Agency,Stipend,EUR 8k/founder,No,P3,Sep 15 2026 window,https://viennabusinessagency.at/current-funding/startup-grant/,Not applied,REQUIRES Vienna residence >=6 months
+NeuFoG,WKO,Tax relief,Fee waivers + 6% wage-levy relief 36mo,No,P0,At incorporation,https://www.wko.at/gruendung/gebuehrenbefreiung,Not applied,Automatic; no retroactivity
+EIC Accelerator,European Commission,Grant/Equity,Grant <EUR 2.5M and/or equity EUR 1-10M,No,P3,Calendar,https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en,Not applied,Next batch Nov 4 2026; TRL 6+ stretch
+EXIST Gründungsstipendium,BMWK Germany,Stipend,EUR 2500/mo x12 + EUR 30k material + EUR 5k coaching,University host required,P3,Only if host secured,https://exist.de/programm/gruendungsstipendium/,Not applicable,Needs German university host; 5-yr graduation window; GCCC visa for Pakistani founder
+EXIST Research Transfer AI fast-track,BMWK,Grant,Phase II up to EUR 180k direct for AI teams,University host required,P3,Only if host secured,https://exist.de/programm/forschungstransfer/,Not applicable,Same university gate
+Gründungsstipendium NRW,NRW,Stipend,EUR 1200/person/mo x12,No,P3,Paused Apr 2026,https://gruenderstipendium.nrw/,Not applicable,NRW residence + work permit required; juries paused
+KfW StartGeld 067,KfW,Loan,EUR 200k; no equity; 80% risk transfer,No,P2,Post-German-GmbH,https://www.kfw.de,Not applicable,Via Hausbank; debt not grant
+Berlin ProFIT / IBB,Berlin,Grant,R&D project grants,No,P3,Quarterly windows,https://www.ibb.de,Not applicable,Berlin seat required
+SPRIND Next Frontier AI/Challenges,SPRIND,Contract/Award,Historically up to EUR 8M contracts/awards,No,P3,Oct 2026 deadlines,https://www.sprind.org,Not applicable,Only genuinely frontier-grade; robotics Oct 22 2026
+BAFA Beratungsförderung,BAFA,Grant,~50% of consulting fees,No,P3,Anytime,https://www.bafa.de,Not applicable,Guideline ends Dec 31 2026; German entity
